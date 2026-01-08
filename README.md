@@ -79,4 +79,24 @@ Interactive visuals help stakeholders quickly understand patterns and performanc
 
 ---
 
+## 🚀 Future Enhancements
+- Implement real-time transaction monitoring.
+- Add fraud detection and anomaly detection models.
+- Integrate predictive analytics for transaction forecasting.
+- Automate data updates using scheduled pipelines.
+- Extend analysis using machine learning models.
+
+---
+
+## 👤 Author
+**Om Navghire**  
+Data Analytics Enthusiast | Excel | SQL | Power BI | Python
+
+---
+
+## 📬 Contact
+- **GitHub:** https://github.com/onavghire28  
+- **LinkedIn:** https://www.linkedin.com/in/om-navghire-520712289
+- **Email:** navghireom@gmail.com
+
 
