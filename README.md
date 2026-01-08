@@ -1,7 +1,5 @@
 # Banking_Transactions_Analysis
 
-# Banking Transactions Analysis
-
 ## 📌 Project Title
 **Banking Transactions Analysis using Excel, SQL, and Power BI**
 
@@ -77,7 +75,7 @@ Interactive visuals help stakeholders quickly understand patterns and performanc
 
 ## 📄 Project Report
 📌 **Project Report (PDF):**  
-[Banking Transactions Analysis Report](Report/Banking_Transactions_Analysis_Report.pdf)
+[Banking Transactions Analysis Report](Bank_transaction_Analysis (overleaf).pdf)
 
 ---
 
