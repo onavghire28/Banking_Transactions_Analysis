@@ -7,6 +7,7 @@
 
 ## Problem Statement
 Banks generate large volumes of transaction data through deposits, withdrawals, online transfers, and card payments across multiple customer segments. However, this data often remains underutilized due to the lack of integrated analysis and visualization. The absence of a centralized analytical system makes it difficult for banks to monitor transaction trends, understand customer behavior, identify high-value customers, and detect operational inefficiencies such as failed transactions.
+
 This project aims to perform exploratory data analysis using Excel, extract meaningful insights using SQL, and build an interactive Power BI dashboard to support data-driven decision-making in the banking domain.
 
 ---
@@ -42,21 +43,21 @@ The dataset consists of banking-related data stored in CSV format, including:
 ---
 
 ## Methodology
-• Collect banking-related customer, transaction, and loan data was collected in
+- Collect banking-related customer, transaction, and loan data was collected in
 CSV format representing real-world banking operations.
-• Excel was used to handle missing values, remove duplicates, standardize formats,
+- Excel was used to handle missing values, remove duplicates, standardize formats,
 and create derived columns for analysis.
-• Pivot tables and charts in Excel were used to identify transaction trends, cus
+- Pivot tables and charts in Excel were used to identify transaction trends, cus
 tomer behavior, and channel-wise patterns.
-• Cleaned data was imported into a relational database, and tables were created
+- Cleaned data was imported into a relational database, and tables were created
 with appropriate relationships and constraints.
-• SQL queries involving joins, subqueries, CTEs, and window functions were used
+- SQL queries involving joins, subqueries, CTEs, and window functions were used
 to extract insights and perform advanced analysis.
-• Relationships between tables were defined and calculated measures were created
+- Relationships between tables were defined and calculated measures were created
 to support analytical reporting.
-• Interactive dashboards were built to visualize KPIs, transaction trends, customer
+- Interactive dashboards were built to visualize KPIs, transaction trends, customer
 segmentation, and channel performance.
-• Dashboard outputs were analyzed to derive actionable insights for improving
+- Dashboard outputs were analyzed to derive actionable insights for improving
 banking operations and customer experience.
 
 ---
@@ -86,9 +87,9 @@ Interactive visuals help stakeholders quickly understand patterns and performanc
 ---
 
 ## Project Report 
-[Banking Transactions Analysis Report](Bank_transaction_Analysis (overleaf).pdf)
-[Banking Transactions Analysis Report](Bank_transaction_Analysis (overleaf).pdf)
-[Banking Transactions Analysis Report](Bank_transaction_Analysis (overleaf).pdf)
+[Project Report](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Bank_transaction_Analysis%20(overleaf).pdf)
+[Project PPT](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Banking_Transaction_analysis(PDF).pdf)
+[SQL Queries](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Banking_Transactions_Analysis(SQL).sql)
 [Banking Transactions Analysis Report](Bank_transaction_Analysis (overleaf).pdf)
 
 
