@@ -14,6 +14,7 @@ This project aims to perform exploratory data analysis using Excel, extract mean
 
 ## Overview
 This project focuses on analyzing banking transaction data to understand customer behavior, transaction trends, and operational performance. The analysis is performed using **Excel for Exploratory Data Analysis (EDA)**, **SQL for structured querying and insights**, and **Power BI for interactive visualization**.  
+
 The project helps convert raw banking data into meaningful, actionable insights to support data-driven decision-making in the banking domain.
 
 ---
@@ -87,10 +88,10 @@ Interactive visuals help stakeholders quickly understand patterns and performanc
 ---
 
 ## Project Report 
-[Project Report](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Bank_transaction_Analysis%20(overleaf).pdf)
-[Project PPT](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Banking_Transaction_analysis(PDF).pdf)
-[SQL Queries](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Banking_Transactions_Analysis(SQL).sql)
-[Banking Transactions Analysis Report](Bank_transaction_Analysis (overleaf).pdf)
+- [Project Report](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Bank_transaction_Analysis%20(overleaf).pdf)
+- [Project PPT](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Banking_Transaction_analysis(PDF).pdf)
+- [SQL Queries](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Banking_Transactions_Analysis(SQL).sql)
+- [Dashboard View](https://github.com/onavghire28/Banking_Transactions_Analysis/blob/main/Dashboard_View.pdf)
 
 
 ---
